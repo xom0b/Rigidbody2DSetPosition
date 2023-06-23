@@ -5,4 +5,4 @@ This repository hosts a Unity 2021.3.9f1 project for testing different ways of s
 A write up of the findings can be found here: 
 https://dicegame.substack.com/p/rigidbody2d-set-position
 
-Assets/Scripts/PhysicsMoverTest.cs is the script controlling the physics test. 
+See Assets/Scripts/PhysicsMoverTest.cs for physics test implementation. 
