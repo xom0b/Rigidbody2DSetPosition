@@ -1,6 +1,8 @@
 using UnityEngine;
 
 /// <summary>
+/// See: https://dicegame.substack.com/p/rigidbody2d-set-position for a write up of the findings implemented here. 
+/// 
 /// This physics mover test allows you to try different ways of "Setting a Dyanmic Rigidbody2D's position" 
 /// The unity documentation suggests you use AddForce, or set a velocity to move it. However, in cases where we need to "instantly" set the position of a rigidbody,
 /// these solutions are not favorable. 
